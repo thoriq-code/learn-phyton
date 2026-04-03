@@ -1,0 +1,33 @@
+Before you can use Python, you must first install it on
+ your computer's operating system. The latest stable version
+ of Python is currently Python 3.13. Here, we will learn the Python programming language
+ using this latest version. Installing Python is very easy; 
+follow the instructions below. Below are instructions on how to
+ install Python on Linux, Windows, and Mac OS platforms.
+ 
+Linux:
+1. Open a browser and visit the Python download page.
+2. Download the latest version of Python in a zip file for Unix/Linux
+3. Extract the newly downloaded zip file
+4. Edit the Modules/Setup file if you want to customize Python
+5. Run the ./configure script
+6. make
+7. make install
+
+
+This step will install Python in the standard location /usr/local/bin
+ and the library in /usr/local/lib/pythonXX where XX is the latest version
+ of Python you are using.
+
+Windows
+1. Open a browser, visit the Python download page for Windows
+2. Download the Python 3.13 installer (select the 64-bit version for Windows)
+3. Open (double-click) the python installer file you just downloaded
+4. Follow the installation steps until complete
+
+
+Mac OS
+1. Open a browser, visit the Python for Mac download page
+2. Download the latest version of Python for Macintosh
+3. Open the file you just downloaded
+4. Follow the installation steps until complete
