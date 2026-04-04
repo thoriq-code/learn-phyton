@@ -1,0 +1,67 @@
+___________________________________________________
+A. Linux
+1. Open a terminal (CTRL+ALT+T).
+2. Type python to enter the Python shell.
+3. Type your Python script, for example: print("Welcome to Python").
+Press ENTER, and the Python script will be executed.
+4. To exit the Python shell, type exit.
+
+Or
+1. use a text editor, such as gedit. 
+2. Create a new file and type your Python script,
+for example: print("Welcome to Python"). 
+3. Save As with the extension .py (example: cetak.py).
+4. Run the file using Terminal.
+5. Open the terminal CTRL+ALT+T.
+6. Go to the directory where your Python file is stored
+ (example: cd /Users/admin/Desktop/).
+7. Run the Python script by using python followed by
+the file name (example: python cetak.py).
+8. Your Python script will be executed.
+
+__________________________________________________
+B. Windows
+Using Shell: 
+1. Open IDLE (the Python shell on Windows), which you can
+ find under the START button.
+2. Type your Python script, for example: print("Welcome to Python").
+Press ENTER, and the Python script will be executed.
+3. To exit the Python shell type exit
+
+Using the Script Editor:
+1. To run a script saved in a file, open IDLE (the Python shell in Windows),
+which you can find in the START button.
+2. Click the File menu. New File.
+3. Write the Python script in the window that appears, for example.
+print("Belajar Python")
+print("di belajarpython.com")
+
+4. Save the script via the File Save menu.
+5. Run the program by clicking the Run Run Module menu.
+
+______________________________________________________________
+Mac OS
+1. Open a terminal.
+2. Type python to enter the Python shell.
+3. Write your Python script, for example: print("Welcome to Python").
+Once done, press ENTER, and the Python script will be executed.
+4. To exit the Python shell, type exit().
+
+Or
+1. use a text editor.
+2. Create a new file and type your Python script,
+for example: print("Welcome to Python").
+3. Save As with the extension .py (example: print.py).
+4. Run the file using Terminal.
+5. Open the terminal CTRL+ALT+T
+6. Go to the directory where your Python file is stored
+(example: cd /Users/admin/Desktop/).
+7. Run the Python script by using python followed by the file name
+(example: python print.py).
+8. Your Python script will be executed.
+
+
+
+
+
+______________________________________________________________
