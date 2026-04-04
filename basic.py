@@ -5,4 +5,4 @@
 #Python itself has quite unique data types when we compare it to other programming languages
 
 #boolean
-print(true)
+print(True)
