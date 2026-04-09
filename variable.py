@@ -15,4 +15,4 @@ lastName = "Code"
 Name = firstName + " " + lastName
 Age = 25
 Hobby = "Coding"
-print("Biodata\n", Name, "\n", Age, "\n", "Hobby")
+print("Biodata\n", Name, "\n", Age, "\n", Hobby)
